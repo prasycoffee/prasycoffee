@@ -25,4 +25,6 @@ ___________________________________________________________________
 # <img src="/media/sparkles.gif" width="30px"> Thank You <img src="/media/sparkles.gif" width="30px">
 Thank you for visiting.
 
+<br>
+
 ![Dinosaurs 🗿](https://github.com/prasycoffee/prasycoffee/blob/prasy/media/dino.gif)
